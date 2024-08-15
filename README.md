@@ -12,6 +12,9 @@ B站，抖音，Youtube全网同名，转载请注明作者<br>
 
 ## 使用方式
 
+### 镜像查询
+https://docker.fxxk.dedyn.io/r/xprobe/xinference/tags
+
 
 ### 配置阿里云
 登录阿里云容器镜像服务<br>
