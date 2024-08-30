@@ -1,4 +1,1 @@
-nginx
-#支持私库
-openmmlab/lmdeploy:latest-cu12
-
+flowiseai/flowise
