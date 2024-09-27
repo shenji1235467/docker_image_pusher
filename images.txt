@@ -1,1 +1,1 @@
-1panel/openresty:1.21.4.3-3-3-focal
+linuxserver/code-server:4.93.1
