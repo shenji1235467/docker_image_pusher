@@ -1,1 +1,1 @@
-grafana/grafana:11.2.2
+ghcr.io/heyputer/puter:latest
