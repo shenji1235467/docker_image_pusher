@@ -1,1 +1,10 @@
-ghcr.io/heyputer/puter:latest
+nginx
+minio/minio
+pgvector/pgvector:pg16
+redis
+appflowyinc/gotrue:latest
+appflowyinc/appflowy_cloud:latest
+appflowyinc/admin_frontend:latest
+appflowyinc/appflowy_ai:latest
+appflowyinc/appflowy_history:latest
+appflowyinc/appflowy_worker:latest
