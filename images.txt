@@ -1,3 +1,1 @@
-powerjob/powerjob-mysql:latest
-powerjob/powerjob-server:latest
-powerjob/powerjob-worker-samples:latest
+mayanghua/instock:latest
