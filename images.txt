@@ -1,1 +1,1 @@
-library/mariadb:latest
+freqtradeorg/freqtrade:stable
