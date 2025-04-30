@@ -1,1 +1,1 @@
-freqtradeorg/freqtrade:stable
+jenkinsci/blueocean
