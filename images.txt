@@ -1,1 +1,1 @@
-docker.n8n.io/n8nio/n8n
+rancher/rancher-agent:v2.14-b95b2fb0d7383f58c32760b387b9231ed62fd6dd-head
