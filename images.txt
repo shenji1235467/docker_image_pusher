@@ -1,1 +1,1 @@
-ghcr.io/alexta69/metube
+chenluqq/codecombat-auto
