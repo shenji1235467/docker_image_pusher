@@ -1,1 +1,1 @@
-sap-abap-dev-edition
+yoraco/sap-dev-edition-7.52-sp04
